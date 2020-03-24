@@ -1,0 +1,7 @@
+C:\Users\Korisnik\Desktop\druga godina\4.semestar\RPPOON\LV\LV1\LV1\obj\Debug\LV1.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\druga godina\4.semestar\RPPOON\LV\LV1\LV1\obj\Debug\LV1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\druga godina\4.semestar\RPPOON\LV\LV1\LV1\bin\Debug\LV1.exe.config
+C:\Users\Korisnik\Desktop\druga godina\4.semestar\RPPOON\LV\LV1\LV1\bin\Debug\LV1.exe
+C:\Users\Korisnik\Desktop\druga godina\4.semestar\RPPOON\LV\LV1\LV1\bin\Debug\LV1.pdb
+C:\Users\Korisnik\Desktop\druga godina\4.semestar\RPPOON\LV\LV1\LV1\obj\Debug\LV1.exe
+C:\Users\Korisnik\Desktop\druga godina\4.semestar\RPPOON\LV\LV1\LV1\obj\Debug\LV1.pdb
